@@ -24,7 +24,12 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+MANIFEST/
+CREDITOR/
+URL HTML/
+HTML META CHARSET<UTF-8/>
+HTMl lang="es"
+<body>
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
